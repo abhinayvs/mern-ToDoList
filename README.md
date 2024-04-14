@@ -14,7 +14,7 @@ npm install express cors mongoose dotenv
 npm install bootstrap axios react-router-dom
 ```
 
-3. start the server :
+2. start the server :
 
 ```
 cd location\server\
