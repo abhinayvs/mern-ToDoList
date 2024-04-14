@@ -28,7 +28,7 @@ cd location\client\
 npm install
 npm start
 ```
-The website can be accessed at : http://localhost:3000/ <br><br>
+The website can be locally accessed at : http://localhost:3000/ <br><br>
 Sample Preview : <br><br>
 ![sample](https://i.postimg.cc/fRP6RPBT/image.png)
 <br>
