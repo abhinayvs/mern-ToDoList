@@ -29,4 +29,10 @@ npm install
 npm start
 ```
 The website can be accessed at : http://localhost:3000/ <br><br>
+Sample Preview : <br><br>
+![sample](https://i.postimg.cc/fRP6RPBT/image.png)
+<br>
+![demo](https://i.postimg.cc/zfzpXDT1/demo.png)
+<br>
+<br>
 Live Preview : 
