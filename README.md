@@ -7,6 +7,8 @@ Pre-requisites: <br><br>
 
 Starting the Website: <br><br>
 
+Open the Folder in Vscode and start terminal  <br><br>
+
 1. Installations:
 
 ```
