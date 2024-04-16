@@ -17,14 +17,14 @@ npm install bootstrap axios react-router-dom
 2. start the server :
 
 ```
-cd location\server\
+cd <path_to_folder>\server\
 npm install
 npm start
 ```
 3. start the client :
 
 ```
-cd location\client\
+cd <path_to_folder>\client\
 npm install
 npm start
 ```
