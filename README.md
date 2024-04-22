@@ -37,4 +37,5 @@ Sample Preview : <br><br>
 ![demo](https://i.postimg.cc/zfzpXDT1/demo.png)
 <br>
 <br>
-Live Preview : https://tasknexa.netlify.app/
+Live Preview of Frontend : https://tasknexa.netlify.app/
+Live Website : https://tasknexa.vercel.app/
