@@ -37,4 +37,4 @@ Sample Preview : <br><br>
 ![demo](https://i.postimg.cc/zfzpXDT1/demo.png)
 <br>
 <br>
-Live Preview : 
+Live Preview : https://tasknexa.netlify.app/
